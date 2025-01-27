@@ -1,3 +1,33 @@
+## Deep Learning for Computer Vision Course
+Welcome to the Deep Learning for Computer Vision course, crafted and delivered during the Summer of 2024 at Belfast Metropolitan College. This intensive program is designed for individuals eager to explore the dynamic fields of deep learning and computer vision, providing both foundational knowledge and hands-on experience.
+
+### Who Should Enroll?
+- **Beginners**: Individuals new to machine learning and computer vision seeking a solid starting point.
+- **Developers and Engineers**: Professionals aiming to enhance their skill set with advanced AI-driven image and video analysis techniques.
+- **Data Scientists**: Practitioners looking to incorporate sophisticated computer vision methodologies into their data projects.
+- **Researchers and Academics**: Scholars pursuing further studies or innovative research in related domains.
+
+### Course Objectives
+
+- **Foundational Understanding**: Grasp the essential principles of deep learning and their application in computer vision.
+- **Practical Skills**: Develop hands-on expertise by building and implementing neural networks, convolutional neural networks (CNNs), and advanced models using frameworks like TensorFlow and PyTorch.
+- **Advanced Techniques**: Explore state-of-the-art architectures such as ResNet, GANs, and object detection models like YOLO and Faster R-CNN.
+- **Project Development**: Apply learned concepts through mini-projects, culminating in real-world applications and collaborative presentations.
+
+### What You'll Learn
+Over the span of four days, the course encompasses a comprehensive curriculum that includes:
+
+- **Deep Learning Fundamentals**: Introduction to neural networks, activation functions, and the evolution of deep learning in computer vision.
+- **Convolutional Neural Networks (CNNs)**: In-depth exploration of CNN architectures, spatial hierarchies, and practical implementation techniques.
+- **Advanced Architectures and Object Detection**: Study of cutting-edge models and methodologies for detecting and classifying objects within images.
+- **Transfer Learning and Fine-Tuning**: Leveraging pre-trained models to efficiently tackle new tasks and datasets.
+- **Image Segmentation and Recurrent Networks**: Techniques for dividing images into meaningful segments and handling sequential data with RNNs, LSTMs, and GRUs.
+- **Generative Adversarial Networks (GANs)**: Understanding and applying GANs for creative image generation, data augmentation, and style transfer.
+- **Hands-On Projects**: Collaborative mini-projects to reinforce learning and demonstrate practical skills in real-world scenarios.
+
+### Course Structure
+The course is structured into four days, each dedicated to specific aspects of deep learning and computer vision. Each day combines theoretical lectures with practical hands-on sessions to ensure a balanced and engaging learning experience.
+
 ### Day 1: Introduction to Deep Learning and Computer Vision Basics
 
 **10:00 AM - 11:00 AM: Introduction to Deep Learning**
