@@ -1,7 +1,9 @@
 ![DL4CV-cover](media/BMC_Summer_Course_Deep_Learning_for_Computer_Vision.jpg)
-
+*image generated using DALL-E by OpenAI*
 ## Deep Learning for Computer Vision Course
 Welcome to the Deep Learning for Computer Vision course, crafted and delivered during the Summer of 2024 at Belfast Metropolitan College. This intensive program is designed for individuals eager to explore the dynamic fields of deep learning and computer vision, providing both foundational knowledge and hands-on experience.
+
+![object-detection-sample](media/processed_obj_test_vid-ezgif.com-resize.gif)
 
 ### Who Should Enroll?
 - **Beginners**: Individuals new to machine learning and computer vision seeking a solid starting point.
