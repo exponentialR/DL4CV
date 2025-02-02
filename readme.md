@@ -87,7 +87,6 @@ The course is structured into four days, each dedicated to specific aspects of d
 - Experiment with fine-tuning different layers and observe the impact on performance.
 
 ### Day 3: Image Segmentation, RNNs/LSTMs/GRUs, and Generative Models (GANs)
-
 **10:00 AM - 11:00 AM: Image Segmentation Techniques**
 - Introduction to Image Segmentation: Semantic vs. Instance Segmentation.
 - Overview of key segmentation models: U-Net, Mask R-CNN.
@@ -112,34 +111,58 @@ The course is structured into four days, each dedicated to specific aspects of d
 - Overview of GANs: Architecture, training process, and challenges.
 - Applications of GANs in Computer Vision: Image generation, data augmentation, style transfer.
 
-### Day 4: Advanced GANs, Revision, and Mini Project
+[//]: # (### Day 4: Advanced GANs, Revision, and Mini Project)
 
-**10:00 AM - 11:00 AM: Advanced Applications of GANs**
-- Deep dive into GAN architectures: DCGAN, Conditional GANs, CycleGAN.
-- Discussion on challenges in training GANs (e.g., mode collapse, instability).
-- Exploration of creative applications like StyleGAN and image-to-image translation.
+[//]: # ()
+[//]: # (**10:00 AM - 11:00 AM: Advanced Applications of GANs**)
 
-**11:00 AM - 12:00 PM: Hands-On Session 7**
-- Implement a DCGAN or CycleGAN on a simple image dataset.
-- Experiment with image-to-image translation or style transfer tasks.
+[//]: # (- Deep dive into GAN architectures: DCGAN, Conditional GANs, CycleGAN.)
 
-**12:00 PM - 1:00 PM: Revision Session**
-- Recap key concepts covered in the previous days, focusing on Object Detection, Segmentation, and GANs.
-- Quick quizzes and short exercises to reinforce learning.
-- Open Q&A to clarify any doubts or revisit challenging topics.
+[//]: # (- Discussion on challenges in training GANs &#40;e.g., mode collapse, instability&#41;.)
 
-**1:00 PM - 2:00 PM: Lunch Break**
+[//]: # (- Exploration of creative applications like StyleGAN and image-to-image translation.)
 
-**2:00 PM - 3:00 PM: Mini Project Implementation**
-- Group students into small teams to work on a mini-project.
-- Project options could include:
-  - Implementing an object detection pipeline.
-  - Designing a GAN for a creative image generation task.
-  - Developing a CNN-RNN model for video classification or image captioning.
-  - Building a segmentation model for a specific dataset.
-- Instructors provide guidance and support as needed.
+[//]: # ()
+[//]: # (**11:00 AM - 12:00 PM: Hands-On Session 7**)
 
-**3:00 PM - 4:00 PM: Project Presentations and Feedback**
-- Each team presents their mini-project, including their approach, results, and challenges faced.
-- Provide constructive feedback on each project.
-- Wrap-up session: Discuss next steps for students who want to dive deeper into Computer Vision.
+[//]: # (- Implement a DCGAN or CycleGAN on a simple image dataset.)
+
+[//]: # (- Experiment with image-to-image translation or style transfer tasks.)
+
+[//]: # ()
+[//]: # (**12:00 PM - 1:00 PM: Revision Session**)
+
+[//]: # (- Recap key concepts covered in the previous days, focusing on Object Detection, Segmentation, and GANs.)
+
+[//]: # (- Quick quizzes and short exercises to reinforce learning.)
+
+[//]: # (- Open Q&A to clarify any doubts or revisit challenging topics.)
+
+[//]: # ()
+[//]: # (**1:00 PM - 2:00 PM: Lunch Break**)
+
+[//]: # ()
+[//]: # (**2:00 PM - 3:00 PM: Mini Project Implementation**)
+
+[//]: # (- Group students into small teams to work on a mini-project.)
+
+[//]: # (- Project options could include:)
+
+[//]: # (  - Implementing an object detection pipeline.)
+
+[//]: # (  - Designing a GAN for a creative image generation task.)
+
+[//]: # (  - Developing a CNN-RNN model for video classification or image captioning.)
+
+[//]: # (  - Building a segmentation model for a specific dataset.)
+
+[//]: # (- Instructors provide guidance and support as needed.)
+
+[//]: # ()
+[//]: # (**3:00 PM - 4:00 PM: Project Presentations and Feedback**)
+
+[//]: # (- Each team presents their mini-project, including their approach, results, and challenges faced.)
+
+[//]: # (- Provide constructive feedback on each project.)
+
+[//]: # (- Wrap-up session: Discuss next steps for students who want to dive deeper into Computer Vision.)
